@@ -1,0 +1,24 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+img {
+  transition: 500ms;
+  box-shadow: 5px 5px 8px #888888;
+}
+
+img:hover {
+  transition: 500ms;
+  box-shadow: none;
+  opacity: 0.5;
+}
+
+.caption-text {
+  margin-top: 20px;
+}
+
